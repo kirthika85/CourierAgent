@@ -1,7 +1,10 @@
 openai 
 langchain
 langchain-openai 
-faiss-cpu 
 langchain_community
-beautifulsoup4
-requests
+streamlit
+openai
+langchain_openai
+pandas
+tabulate
+python-dotenv
